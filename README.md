@@ -1,0 +1,1 @@
+A CRUD app using a sample movie list from MongoDB. When you type in the Movioe title it will use Fuzzy Search to fill in Title. Once chosen it will display the movie poster along with other info of the film.
